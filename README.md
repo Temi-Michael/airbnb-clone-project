@@ -1,6 +1,6 @@
 # airbnb-clone-project
 
-This project is a full-stack clone of the AirBnB web application. The goal is to build a functional and responsive web app that allows users to browse, view, and book property listings.
+This project is a full-stack clone of the Airbnb web application. The goal is to build a functional and responsive web app that allows users to browse, view, and book property listings.
 
 ## Learning Objectives
 
@@ -19,12 +19,12 @@ This project is a full-stack clone of the AirBnB web application. The goal is to
 
 ### Importance of Design Specifications
 
-Identifying design properties like color palettes, typography, and spacing from a mockup is crucial for translating a design into a functional user interface. It ensures visual consistency with the designer'''s vision, maintains brand identity, and provides a predictable user experience. A detailed style guide extracted from the mockup serves as a single source of truth for developers, reducing ambiguity and accelerating development.
+Identifying design properties like color palettes, typography, and spacing from a mockup is crucial for translating a design into a functional user interface. It ensures visual consistency with the designer's vision, maintains brand identity, and provides a predictable user experience. A detailed style guide extracted from the mockup is a single source of truth for developers, reducing ambiguity and accelerating development.
 
 ### Design Goals
 
 *   **Intuitive Booking Flow:** A seamless and easy-to-follow process for users to book a property.
-*   **Visual Consistency:** A consistent look and feel across the entire application.
+*   **Visual Consistency:** A consistent look and feel across the application.
 *   **Performance:** Fast loading times for a better user experience.
 *   **Responsiveness:** A mobile-first design that works on all screen sizes.
 
@@ -90,12 +90,12 @@ The application will be built using a component-based architecture. Here are som
 | ------------------- | ---------------------------------------------------------- |
 | Project Manager     | Oversees timeline, coordinates team, manages deliverables. |
 | Frontend Developers | Implements UI components, ensures responsive design.       |
-| Backend Developers  | Builds APIs, manages database, implements business logic.  |
+| Backend Developers  | Builds APIs, manages the database, implements business logic.  |
 | Designers           | Creates mockups, maintains design system, ensures UX quality. |
 | QA/Testers          | Writes test cases, performs testing, reports bugs.         |
 | DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure. |
-| Product Owner       | Defines requirements, prioritizes features, represents stakeholders. |
-| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings. |
+| Product Owner       | Defines requirements, prioritizes features, and represents stakeholders. |
+| Scrum Master        | Facilitates agile processes, removes blockers, and organizes meetings. |
 
 ## Best Practices
 
