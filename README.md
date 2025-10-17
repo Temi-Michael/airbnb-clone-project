@@ -15,7 +15,7 @@ This project is a full-stack clone of the AirBnB web application. The goal is to
 *   **Version Control:** Git and GitHub
 *   **Design Tools:** Figma
 
-## UI/UX Design
+## UI/UX Design Planning
 
 ### Importance of Design Specifications
 
